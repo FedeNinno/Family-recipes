@@ -9,5 +9,5 @@
 ## Steps
 - mix everything
 - wait a bit
-- start making pizza
+- start making pizzas
 
