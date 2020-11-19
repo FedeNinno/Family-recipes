@@ -2,6 +2,6 @@
 
 Set of recipes as given by my grandma.
 
-- pizzas
-- sauces
-- spreads
+- pizas
+- sauses
+- reads
